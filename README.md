@@ -1,1 +1,1 @@
-﻿# Single-particle source profile framework
+﻿# Automated workflow for constructing single-particle multimodal source profile.
