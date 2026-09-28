@@ -1,1 +1,1 @@
-﻿# Automated workflow for constructing single-particle multimodal source profile.
+﻿# Automated workflow for constructing single-particle multi-attribute source profile.
